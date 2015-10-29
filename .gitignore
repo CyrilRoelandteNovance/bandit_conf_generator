@@ -1,0 +1,9 @@
+*.pyc
+*.egg-info
+.eggs
+*.egg
+.tox
+build/*
+ChangeLog
+.*.sw?
+AUTHORS
